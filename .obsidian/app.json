@@ -11,9 +11,10 @@
   },
   "foldIndent": true,
   "showFrontmatter": false,
-  "foldHeading": false,
+  "foldHeading": true,
   "fileSortOrder": "byModifiedTime",
   "defaultViewMode": "preview",
-  "strictLineBreaks": false,
-  "spellcheck": false
+  "strictLineBreaks": true,
+  "spellcheck": false,
+  "showLineNumber": true
 }
