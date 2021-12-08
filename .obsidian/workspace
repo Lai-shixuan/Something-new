@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C 政治/2 毛概/新发展理念的科学内涵.md",
+            "file": "_热力图.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C 政治/2 毛概/新发展理念的科学内涵.md",
+                "file": "_热力图.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C 政治/2 毛概/新发展理念的科学内涵.md"
+                "file": "_热力图.md"
               }
             }
           }
@@ -97,6 +97,7 @@
   },
   "active": "fe32034416e09844",
   "lastOpenFiles": [
+    "_热力图.md",
     "C 政治/2 毛概/新发展理念的科学内涵.md",
     "C 政治/2 毛概/明确阶段性中心任务、指定路线方针的根本依据.md",
     "C 政治/2 毛概/国家富强、民族振兴、人民幸福.md",
@@ -105,7 +106,6 @@
     "C 政治/1 马原/资本主义规律/国家垄断资本主义.md",
     "C 政治/1 马原/哲学部分/事物属性的多样性.md",
     "C 政治/2 毛概/精准脱贫五个一批.md",
-    "C 政治/2 毛概/全面深化改革对企业的鼓励.md",
-    "C 政治/2 毛概/一到七中全会.md"
+    "C 政治/2 毛概/全面深化改革对企业的鼓励.md"
   ]
 }
