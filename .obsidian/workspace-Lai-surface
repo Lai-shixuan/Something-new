@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "c6d672d16f12ee90",
+    "type": "split",
+    "children": [
+      {
+        "id": "47818015ae1b635a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "高等数学/麦克劳林公式.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ff0508f6e010d82",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bab3ba7888d1081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c60a8eb08b9a10da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56fd272a577873e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256
+  },
+  "right": {
+    "id": "99b3e785218c8f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7ac331daf9bdda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f594778b242f0e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "高等数学/麦克劳林公式.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6592eca56356e9ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "高等数学/麦克劳林公式.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230,
+    "collapsed": true
+  },
+  "active": "47818015ae1b635a",
+  "lastOpenFiles": [
+    "高等数学/麦克劳林公式.md",
+    "泰勒定理展开阶数.md",
+    "洛必达定理的问题.md",
+    "数列  子列  的极限.md",
+    "偏导数的定义.md",
+    "多元函数的连续性判别方法.md",
+    "高等数学/新增的等价.md",
+    "高等数学/常微分方程解题方法.md",
+    "高等数学/抛物线顶点.md",
+    "高等数学/等比数列求和公式.md"
+  ]
+}

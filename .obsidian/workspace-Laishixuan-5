@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "7f7a5a34df45dff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d577e77e61eb3f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "B 机械设计/轴系/轴承知识点大纲.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b845e81eb4a55f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4a40439ba4dbd13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed5b07e9a4df276",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae217e6a779dadc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "非理性",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329
+  },
+  "right": {
+    "id": "d78392b854daea97",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1cd017baeb9a04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff71bb4675da30d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B 机械设计/轴系/轴承知识点大纲.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb0f887849272146",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "B 机械设计/轴系/轴承知识点大纲.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211
+  },
+  "active": "6d577e77e61eb3f9",
+  "lastOpenFiles": [
+    "B 机械设计/轴系/轴承知识点大纲.md",
+    "B 机械设计/轴系/轴的初估直径公式.md",
+    "B 机械设计/轴系/滑动轴承油沟长度.md",
+    "B 机械设计/传动/脱链的原因.md",
+    "非理性因素.md",
+    "C 政治/1 马原/哲学部分/非理性因素和理性因素.md",
+    "C 政治/1 马原/哲学部分/马克思主义原理 第3章.md",
+    "C 政治/1 马原/哲学部分/马克思主义原理  第2章.md",
+    "C 政治/1 马原/社会主义发展/马克思、恩格斯著作发展.md",
+    "C 政治/1 马原/社会主义发展/202108220924.md"
+  ]
+}

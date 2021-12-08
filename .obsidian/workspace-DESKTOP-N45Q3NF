@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "006cdb4900e2b8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "76f0b05ca072bc26",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ff0508f6e010d82",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bab3ba7888d1081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c60a8eb08b9a10da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56fd272a577873e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284
+  },
+  "right": {
+    "id": "99b3e785218c8f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7ac331daf9bdda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f594778b242f0e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319
+  },
+  "active": "76f0b05ca072bc26",
+  "lastOpenFiles": [
+    "未命名.md",
+    "改造世界.md",
+    "线性代数/202108151011.md",
+    "追求真理.md",
+    "认识的本质.md",
+    "价值关系.md",
+    "主体与客体的关系.md",
+    "中介.md",
+    "实践的种类.md",
+    "审美关系.md"
+  ]
+}

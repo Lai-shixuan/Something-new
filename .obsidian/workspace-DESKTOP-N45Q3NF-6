@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "006cdb4900e2b8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5306580d90b88e0a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "定积分求体积.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ff0508f6e010d82",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bab3ba7888d1081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c60a8eb08b9a10da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56fd272a577873e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354
+  },
+  "right": {
+    "id": "99b3e785218c8f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7ac331daf9bdda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f594778b242f0e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "定积分求体积.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367,
+    "collapsed": true
+  },
+  "active": "5306580d90b88e0a",
+  "lastOpenFiles": [
+    "未命名.md",
+    "线性代数/对称矩阵  正定矩阵.md",
+    "党/上合组织.md",
+    "线性代数/正交矩阵  与正交化法.md",
+    "线性代数/正交  投影矩阵  最小二乘.md",
+    "线性代数/正定矩阵.md",
+    "线性代数/相似矩阵.md",
+    "线性代数/特征值.md",
+    "线性代数/对角化，和矩阵乘幂.md",
+    "线性代数/正交向量和正交子空间.md"
+  ]
+}

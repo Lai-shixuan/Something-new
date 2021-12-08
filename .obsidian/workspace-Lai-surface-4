@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "7f7a5a34df45dff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5417415bb9238cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C 政治/2 毛概/点亮了实现中华民族伟大复兴的灯塔 是.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b845e81eb4a55f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4a40439ba4dbd13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed5b07e9a4df276",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae217e6a779dadc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "灯塔",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280
+  },
+  "right": {
+    "id": "d78392b854daea97",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1cd017baeb9a04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff71bb4675da30d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C 政治/2 毛概/点亮了实现中华民族伟大复兴的灯塔 是.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb0f887849272146",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C 政治/2 毛概/点亮了实现中华民族伟大复兴的灯塔 是.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252
+  },
+  "active": "b5417415bb9238cb",
+  "lastOpenFiles": [
+    "C 政治/2 毛概/点亮了实现中华民族伟大复兴的灯塔 是.md",
+    "C 政治/2 毛概/转变经济发展方式.md",
+    "C 政治/2 毛概/科学发展规是否是指导党和国家全部工作？.md",
+    "C 政治/2 毛概/“三个代表”重要思想回答的基本问题.md",
+    "C 政治/2 毛概/文化产业是否是支柱性产业？.md",
+    "C 政治/2 毛概/用于解决一个国家的统一问题,是对马克思主义国家 学说的创造性发展的是：.md",
+    "C 政治/2 毛概/贯彻新发展理念，必须更加注重.md",
+    "C 政治/2 毛概/中国实行的社会主义民主政治的性质.md",
+    "C 政治/2 毛概/全面依法治国提出时间.md",
+    "C 政治/2 毛概/所有制的性质和实现形式.md"
+  ]
+}

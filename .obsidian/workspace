@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "7f7a5a34df45dff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe32034416e09844",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C 政治/2 毛概/新发展理念的科学内涵.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b845e81eb4a55f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4a40439ba4dbd13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed5b07e9a4df276",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae217e6a779dadc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "suffci",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283
+  },
+  "right": {
+    "id": "d78392b854daea97",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1cd017baeb9a04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff71bb4675da30d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C 政治/2 毛概/新发展理念的科学内涵.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb0f887849272146",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C 政治/2 毛概/新发展理念的科学内涵.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253
+  },
+  "active": "fe32034416e09844",
+  "lastOpenFiles": [
+    "C 政治/2 毛概/新发展理念的科学内涵.md",
+    "C 政治/2 毛概/明确阶段性中心任务、指定路线方针的根本依据.md",
+    "C 政治/2 毛概/国家富强、民族振兴、人民幸福.md",
+    "C 政治/2 毛概/八个明确和十四个坚持.md",
+    "C 政治/1 马原/资本主义规律/202108201026-1.md",
+    "C 政治/1 马原/资本主义规律/国家垄断资本主义.md",
+    "C 政治/1 马原/哲学部分/事物属性的多样性.md",
+    "C 政治/2 毛概/精准脱贫五个一批.md",
+    "C 政治/2 毛概/全面深化改革对企业的鼓励.md",
+    "C 政治/2 毛概/一到七中全会.md"
+  ]
+}

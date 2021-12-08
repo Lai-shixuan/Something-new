@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "006cdb4900e2b8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "52486ef416a1b46c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ff0508f6e010d82",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bab3ba7888d1081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c60a8eb08b9a10da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56fd272a577873e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372
+  },
+  "right": {
+    "id": "99b3e785218c8f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7ac331daf9bdda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f594778b242f0e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407
+  },
+  "active": "52486ef416a1b46c",
+  "lastOpenFiles": [
+    "曲线的曲率.md",
+    "曲线的弧微分及弧长.md",
+    "表面积和体积.md",
+    "未命名.md",
+    "形心、质心.md",
+    "相关变化率.md",
+    "物理应用.md",
+    "我的问题 S.md",
+    "微分方程变化率问题.md",
+    "高等数学/二重积分极坐标公式.md"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "006cdb4900e2b8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ecb850feb2c969d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "高等数学/驻点  拐点.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ff0508f6e010d82",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bab3ba7888d1081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c60a8eb08b9a10da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56fd272a577873e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "和差",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "99b3e785218c8f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7ac331daf9bdda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f594778b242f0e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "高等数学/驻点  拐点.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6592eca56356e9ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "高等数学/驻点  拐点.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304,
+    "collapsed": true
+  },
+  "active": "3ecb850feb2c969d",
+  "lastOpenFiles": [
+    "高等数学/驻点  拐点.md",
+    "高等数学/切线方程  曲线方程.md",
+    "高等数学/麦克劳林公式.md",
+    "高等数学/间断点分类.md",
+    "高等数学/特殊函数求导.md",
+    "高等数学/微分方程变化率问题.md",
+    "高等数学/微分和导数区别.md",
+    "高等数学/物理应用.md",
+    "高等数学/相关变化率.md",
+    "高等数学/斜渐近线.md"
+  ]
+}

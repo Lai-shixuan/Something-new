@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "--附件",
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "foldHeading": false,
+  "fileSortOrder": "byModifiedTime",
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "spellcheck": false
+}

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "006cdb4900e2b8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa6ccc3061462cf9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "矩阵空间.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ff0508f6e010d82",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bab3ba7888d1081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c60a8eb08b9a10da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56fd272a577873e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212
+  },
+  "right": {
+    "id": "99b3e785218c8f60",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7ac331daf9bdda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f594778b242f0e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "图和网络.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407,
+    "collapsed": true
+  },
+  "active": "aa6ccc3061462cf9",
+  "lastOpenFiles": [
+    "图和网络.md",
+    "未命名.md",
+    "线性代数/idea.md",
+    "线性代数/解齐次方程，阶梯型和简化阶梯型.md",
+    "线性代数/线性相关  生成线性空间  基  维数.md",
+    "线性代数/零空间 Null space.md",
+    "线性代数/方程的可解性  抽象总结.md",
+    "线性代数/4个基本子空间.md",
+    "线性代数/置换  转置矩阵.md",
+    "线性代数/线性相关  生成线性空间  基.md"
+  ]
+}
