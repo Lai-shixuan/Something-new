@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe32034416e09844",
+        "id": "439a606d83b53d55",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "B 机械设计/4 连接/双螺母紧固的缺点是？.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "刚度",
+                "query": "太平天国",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B 机械设计/4 连接/双螺母紧固的缺点是？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,28 +80,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "B 机械设计/4 连接/双螺母紧固的缺点是？.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 229
   },
-  "active": "fe32034416e09844",
+  "active": "439a606d83b53d55",
   "lastOpenFiles": [
-    "B 机械设计/4 连接/双螺母紧固的缺点是？.md",
-    "B 机械设计/4 连接/单个螺栓的强度计算.md",
-    "B 机械设计/4 连接/减小螺栓刚度的办法.md",
-    "B 机械设计/4 连接/螺纹连接.md",
-    "B 机械设计/4 连接/螺栓连接改错.md",
-    "B 机械设计/4 连接/螺栓强度等级.md",
+    "C 政治/2 毛概/未命名.md",
+    "C 政治/2 毛概/新时代党的民族工作的路线.md",
+    "C 政治/2 毛概/党的建设.md",
+    "C 政治/2 毛概/小康社会.md",
+    "未命名.md",
+    "C 政治/1 马原/原理大题.md",
     "英语单词3.md",
-    "英语单词2.md",
-    "英语单词.md",
-    "README.md"
+    "C 政治/3 近现代史/太平天国的兴盛时期.md",
+    "B 机械设计/4 连接/双螺母紧固的缺点是？.md",
+    "B 机械设计/4 连接/单个螺栓的强度计算.md"
   ]
 }
