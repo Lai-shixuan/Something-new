@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "439a606d83b53d55",
+        "id": "83ee9927b2568306",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C 政治/1 马原/上层建筑.md",
+            "file": "C 政治/2 毛概/毛概  建军  外交  党建.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "人民内部矛盾",
+                "query": "依法执政",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 309
   },
   "right": {
     "id": "d78392b854daea97",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C 政治/1 马原/上层建筑.md",
+                "file": "C 政治/2 毛概/毛概  建军  外交  党建.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C 政治/1 马原/上层建筑.md"
+                "file": "C 政治/2 毛概/毛概  建军  外交  党建.md"
               }
             }
           }
@@ -93,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 229,
+    "collapsed": true
   },
-  "active": "439a606d83b53d55",
+  "active": "83ee9927b2568306",
   "lastOpenFiles": [
-    "C 政治/1 马原/上层建筑.md",
+    "C 政治/2 毛概/毛概  建军  外交  党建.md",
+    "C 政治/2 毛概/新发展理念的根和魂.md",
+    "C 政治/2 毛概/邓小平在党的12大上面提出的是：.md",
+    "C 政治/2 毛概/新发展阶段的历史依据和现实依据是.md",
+    "C 政治/2 毛概/全面依法治国提出时间.md",
+    "C 政治/2 毛概/依法治国、依法执政、依法行政.md",
     "C 政治/4 思修/思想道德和法律的关系式.md",
-    "C 政治/6 形策/生物多样性大会的主题是.md",
-    "C 政治/6 形策/祖国统一的最大障碍，是民族复兴的严重隐患.md",
-    "C 政治/2 毛概/社会主义国家政治生活的主题是.md",
-    "C 政治/2 毛概/关于正确处理人民内部矛盾，关于基本矛盾的理论.md",
-    "C 政治/2 毛概/关于正确处理人民内部矛盾，2类不同性质的社会矛盾的处理方法.md",
-    "C 政治/2 毛概/关于正确处理人民内部矛盾，2种不同性质的矛盾.md",
-    "C 政治/3 近现代史/李大钊.md",
-    "C 政治/2 毛概/新时代党的民族工作的路线.md"
+    "C 政治/2 毛概/讲好中国故事.md",
+    "C 政治/2 毛概/新发展理念的科学内涵.md",
+    "C 政治/1 马原/资本主义规律/巴黎公社.md"
   ]
 }
