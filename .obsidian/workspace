@@ -7,8 +7,11 @@
         "id": "439a606d83b53d55",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "C 政治/1 马原/上层建筑.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "太平天国",
+                "query": "人民内部矛盾",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C 政治/1 马原/上层建筑.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C 政治/1 马原/上层建筑.md"
+              }
             }
           }
         ]
@@ -91,15 +97,15 @@
   },
   "active": "439a606d83b53d55",
   "lastOpenFiles": [
-    "C 政治/2 毛概/未命名.md",
-    "C 政治/2 毛概/新时代党的民族工作的路线.md",
-    "C 政治/2 毛概/党的建设.md",
-    "C 政治/2 毛概/小康社会.md",
-    "未命名.md",
-    "C 政治/1 马原/原理大题.md",
-    "英语单词3.md",
-    "C 政治/3 近现代史/太平天国的兴盛时期.md",
-    "B 机械设计/4 连接/双螺母紧固的缺点是？.md",
-    "B 机械设计/4 连接/单个螺栓的强度计算.md"
+    "C 政治/1 马原/上层建筑.md",
+    "C 政治/4 思修/思想道德和法律的关系式.md",
+    "C 政治/6 形策/生物多样性大会的主题是.md",
+    "C 政治/6 形策/祖国统一的最大障碍，是民族复兴的严重隐患.md",
+    "C 政治/2 毛概/社会主义国家政治生活的主题是.md",
+    "C 政治/2 毛概/关于正确处理人民内部矛盾，关于基本矛盾的理论.md",
+    "C 政治/2 毛概/关于正确处理人民内部矛盾，2类不同性质的社会矛盾的处理方法.md",
+    "C 政治/2 毛概/关于正确处理人民内部矛盾，2种不同性质的矛盾.md",
+    "C 政治/3 近现代史/李大钊.md",
+    "C 政治/2 毛概/新时代党的民族工作的路线.md"
   ]
 }
