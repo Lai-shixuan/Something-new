@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A 数学/线性代数/3 特征值/正交矩阵  与正交化法.md",
+            "file": "B 机械设计/4 连接/双螺母紧固的缺点是？.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "suffci",
+                "query": "刚度",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A 数学/线性代数/3 特征值/正交矩阵  与正交化法.md",
+                "file": "B 机械设计/4 连接/双螺母紧固的缺点是？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A 数学/线性代数/3 特征值/正交矩阵  与正交化法.md"
+                "file": "B 机械设计/4 连接/双螺母紧固的缺点是？.md"
               }
             }
           }
@@ -93,19 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193
+    "width": 261
   },
   "active": "fe32034416e09844",
   "lastOpenFiles": [
-    "A 数学/线性代数/3 特征值/正交矩阵  与正交化法.md",
-    "A 数学/线性代数/3 特征值/对称矩阵  正定矩阵.md",
-    "A 数学/线性代数/3 特征值/正定矩阵.md",
-    "A 数学/线性代数/3 特征值/正交向量和正交子空间.md",
-    "A 数学/线性代数/3 特征值/矩阵相乘秩的关系.md",
-    "A 数学/线性代数/3 特征值/相似矩阵.md",
-    "A 数学/线性代数/2 行列式/伴随矩阵  转置矩阵一些性质.md",
-    "A 数学/线性代数/2 行列式/行列式和特征值.md",
-    "A 数学/线性代数/2 行列式/行列式的应用.md",
-    "A 数学/线性代数/2 行列式/行列式求解.md"
+    "B 机械设计/4 连接/双螺母紧固的缺点是？.md",
+    "B 机械设计/4 连接/单个螺栓的强度计算.md",
+    "B 机械设计/4 连接/减小螺栓刚度的办法.md",
+    "B 机械设计/4 连接/螺纹连接.md",
+    "B 机械设计/4 连接/螺栓连接改错.md",
+    "B 机械设计/4 连接/螺栓强度等级.md",
+    "英语单词3.md",
+    "英语单词2.md",
+    "英语单词.md",
+    "README.md"
   ]
 }
