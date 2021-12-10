@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "x在无穷处的极限.md",
-            "mode": "source"
+            "file": "A 数学/高等数学/2 微分/高阶导数的和差公式.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "胜利",
+                "query": "和差",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "x在无穷处的极限.md",
+                "file": "A 数学/高等数学/2 微分/高阶导数的和差公式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "x在无穷处的极限.md"
+                "file": "A 数学/高等数学/2 微分/高阶导数的和差公式.md"
               }
             }
           }
@@ -98,15 +98,15 @@
   },
   "active": "ed571c892524138e",
   "lastOpenFiles": [
-    "x在无穷处的极限.md",
-    "A 数学/高等数学/3 积分/反常积分的判别方法.md",
-    "A 数学/高等数学/3 积分/反常积分负数的处理方式.md",
+    "A 数学/高等数学/2 微分/高阶导数的和差公式.md",
+    "A 数学/高等数学/0 总论/和差化积公式.md",
+    "--索引/高等数学索引.md",
+    "C 政治/2 毛概/毛概  建军  外交  党建.md",
     "C 政治/3 近现代史/李大钊.md",
-    "A 数学/高等数学/3 积分/积分再现方法.md",
-    "A 数学/高等数学/3 积分/换元法的使用原则是.md",
-    "A 数学/线性代数/idea.md",
-    "A 数学/线性代数/A=CR.md",
-    "A 数学/线性代数/线性代数改错.md",
-    "A 数学/线性代数/3 特征值/正交向量和正交子空间.md"
+    "C 政治/1 马原/原理大题.md",
+    "C 政治/2 毛概/4个伟大在新时代的意义.md",
+    "C 政治/2 毛概/全面依法治国提出时间.md",
+    "D 英语/英语单词3.md",
+    "D 英语/英语单词2.md"
   ]
 }

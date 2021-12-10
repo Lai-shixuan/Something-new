@@ -16,6 +16,5 @@
   "defaultViewMode": "preview",
   "strictLineBreaks": true,
   "spellcheck": false,
-  "showLineNumber": true,
-  "vimMode": false
+  "showLineNumber": true
 }
