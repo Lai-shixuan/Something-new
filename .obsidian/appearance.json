@@ -1,7 +1,7 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 18,
   "cssTheme": "Yin and Yang",
   "baseFontSizeAction": true,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "translucency": true
 }

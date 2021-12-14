@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ed571c892524138e",
+        "id": "8abfb4e1db0a0058",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "B 机械设计/_改错/带传动改错.md",
+            "file": "B 机械设计/机械设计一些不去复习就会后悔的内容.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "张紧轮",
+                "query": "利润率",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,12 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 331
   },
   "right": {
     "id": "d78392b854daea97",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B 机械设计/_改错/带传动改错.md",
+                "file": "B 机械设计/机械设计一些不去复习就会后悔的内容.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B 机械设计/_改错/带传动改错.md"
+                "file": "B 机械设计/机械设计一些不去复习就会后悔的内容.md"
               }
             }
           }
@@ -94,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231
+    "width": 278,
+    "collapsed": true
   },
-  "active": "ed571c892524138e",
+  "active": "8abfb4e1db0a0058",
   "lastOpenFiles": [
-    "B 机械设计/_改错/带传动改错.md",
-    "B 机械设计/2 挠性传动/带传动的布置.md",
-    "B 机械设计/3 齿轮、蜗轮蜗杆/链传动大纲.md",
     "B 机械设计/机械设计一些不去复习就会后悔的内容.md",
-    "B 机械设计/4 连接/键的失效形式.md",
-    "B 机械设计/4 连接/键静连接.md",
-    "B 机械设计/5 轴系/最高速的机床，用的润滑采用什么介质？.md",
-    "B 机械设计/5 轴系/滚动轴承的疲劳寿命.md",
-    "B 机械设计/5 轴系/轴承中，寿命指数.md",
-    "B 机械设计/5 轴系/轴承类型-字母代号.md"
+    "B 机械设计/3 齿轮、蜗轮蜗杆/弯曲疲劳应力和接触疲劳应力.md",
+    "C 政治/1 马原/资本主义规律/202108201013-1.md",
+    "C 政治/1 马原/资本主义规律/202108221511.md",
+    "C 政治/1 马原/资本主义规律/国家垄断资本主义.md",
+    "C 政治/1 马原/资本主义规律/202108221539.md",
+    "C 政治/1 马原/资本主义规律/202108201359.md",
+    "C 政治/1 马原/资本主义规律/202108201357.md",
+    "D 英语/英语单词4.md",
+    "C 政治/2 毛概/习近平新时代中国特色社会主义思想的意义.md"
   ]
 }

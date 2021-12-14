@@ -12,10 +12,10 @@
   "foldIndent": true,
   "showFrontmatter": false,
   "foldHeading": true,
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "alphabetical",
   "defaultViewMode": "preview",
   "strictLineBreaks": true,
   "spellcheck": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "vimMode": false
 }
