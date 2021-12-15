@@ -9,4 +9,4 @@
 To Do List:  
 - [ ] 增加插件列表
 - [ ] 扩写博客
-- [ ] 给博客增加CSS以适应 markdown 语法
+- [ ] 给博客增加 CSS 以适应 markdown 语法
