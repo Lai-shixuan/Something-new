@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "7f7a5a34df45dff2",
+    "id": "2417cf2d1639def7",
     "type": "split",
     "children": [
       {
-        "id": "380b2acabfde93f9",
+        "id": "36bf19319c08072a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "B 机械设计/5 轴系/滑动轴承超过了规定的pv值.md",
-            "mode": "source"
+            "file": "A 数学/高等数学/0 总论/和差化积公式.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "秩一",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339
+    "width": 332
   },
   "right": {
     "id": "d78392b854daea97",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B 机械设计/5 轴系/滑动轴承超过了规定的pv值.md",
+                "file": "A 数学/高等数学/0 总论/和差化积公式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B 机械设计/5 轴系/滑动轴承超过了规定的pv值.md"
+                "file": "A 数学/高等数学/0 总论/和差化积公式.md"
               }
             }
           }
@@ -93,20 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316,
-    "collapsed": true
+    "width": 316
   },
-  "active": "380b2acabfde93f9",
+  "active": "36bf19319c08072a",
   "lastOpenFiles": [
-    "B 机械设计/5 轴系/滑动轴承超过了规定的pv值.md",
-    "B 机械设计/5 轴系/推力滑动轴承的结构.md",
-    "B 机械设计/4 连接/平键、斜键、半圆键双键的布置方式和原因.md",
-    "B 机械设计/_改错/键槽的加工.md",
-    "B 机械设计/4 连接/轴开键槽后增大百分比.md",
-    "B 机械设计/4 连接/普通平键断面形状.md",
-    "B 机械设计/4 连接/键的尺寸设计.md",
-    "B 机械设计/4 连接/键的标记.md",
-    "B 机械设计/4 连接/键静连接.md",
-    "B 机械设计/5 轴系/轴承选择.md"
+    "A 数学/高等数学/0 总论/和差化积公式.md",
+    "A 数学/高等数学/高等数学改错.md",
+    "A 数学/高等数学/6 多元函数/全微分的定义.md",
+    "A 数学/高等数学/3 积分/一些换元方法.md",
+    "A 数学/高等数学/3 积分/反常积分负数的处理方式.md",
+    "A 数学/高等数学/2 微分/反函数的二阶导数.md",
+    "A 数学/高等数学/2 微分/反函数微分.md",
+    "A 数学/高等数学/0 总论/一些三角函数的图像.md",
+    "A 数学/高等数学/0 总论/韦达定理.md",
+    "A 数学/高等数学/0 总论/平方项数列的等比公式.md"
   ]
 }
