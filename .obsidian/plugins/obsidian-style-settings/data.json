@@ -15,5 +15,6 @@
   "shimmering-focus@@quotation-mark-deco": false,
   "shimmering-focus@@focus-view-enabled": false,
   "shimmering-focus@@max-view-off": false,
-  "shimmering-focus@@show-ribbons": false
+  "shimmering-focus@@show-ribbons": false,
+  "shimmering-focus@@image-size": 60
 }

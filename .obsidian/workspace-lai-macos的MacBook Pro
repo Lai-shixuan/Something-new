@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "85fdac1758d85bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "80b29c64a531e241",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "D 英语/英语单词3.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc672f89aad505b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ea617853f4dc25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dcd3118ad473798",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "edda552d224bd670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "anxious",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d17508f0857af890",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2d61bd2ee392fc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6b2cd700a685aa4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D 英语/英语单词3.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "865a23b358a4ffaa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "D 英语/英语单词3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "80b29c64a531e241",
+  "lastOpenFiles": [
+    "D 英语/英语单词3.md",
+    "A 数学/高等数学/4 几何应用/曲线的曲率.md",
+    "D 英语/英语单词4.md",
+    "B 机械设计/一些不去复习就会后悔的内容 -机械设计.md",
+    "C 政治/2 毛概/两岸关系行稳致远的根子.md",
+    "C 政治/2 毛概/人民政协工作的中心环节.md",
+    "C 政治/2 毛概/我国的政治格局是.md",
+    "C 政治/1 马原/资本主义规律/202108201324.md",
+    "C 政治/1 马原/资本主义规律/202108201322.md",
+    "C 政治/1 马原/资本主义规律/202108191803-2.md"
+  ]
+}

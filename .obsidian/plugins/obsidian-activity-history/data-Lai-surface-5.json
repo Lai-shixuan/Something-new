@@ -1,0 +1,126 @@
+{
+  "firstRun": false,
+  "initialized": [
+    {
+      "path": "/",
+      "initialized": true
+    }
+  ],
+  "trackedProjects": [
+    "/"
+  ],
+  "checkpointList": [
+    {
+      "path": "/",
+      "date": "2021-12-19",
+      "size": 341652
+    }
+  ],
+  "activityHistory": [
+    {
+      "path": "/",
+      "size": [
+        {
+          "date": "2021-11-27",
+          "value": 5173
+        },
+        {
+          "date": "2021-11-28",
+          "value": 4363
+        },
+        {
+          "date": "2021-11-29",
+          "value": 2921
+        },
+        {
+          "date": "2021-11-30",
+          "value": 4559
+        },
+        {
+          "date": "2021-12-01",
+          "value": 14643
+        },
+        {
+          "date": "2021-12-02",
+          "value": 10705
+        },
+        {
+          "date": "2021-12-03",
+          "value": 2177
+        },
+        {
+          "date": "2021-12-04",
+          "value": 4066
+        },
+        {
+          "date": "2021-12-05",
+          "value": 10736
+        },
+        {
+          "date": "2021-12-06",
+          "value": 1704
+        },
+        {
+          "date": "2021-12-07",
+          "value": 8460
+        },
+        {
+          "date": "2021-12-08",
+          "value": 9776
+        },
+        {
+          "date": "2021-12-09",
+          "value": 38387
+        },
+        {
+          "date": "2021-12-10",
+          "value": 11317
+        },
+        {
+          "date": "2021-12-11",
+          "value": 2184
+        },
+        {
+          "date": "2021-12-12",
+          "value": 11028
+        },
+        {
+          "date": "2021-12-13",
+          "value": 7724
+        },
+        {
+          "date": "2021-12-14",
+          "value": 6368
+        },
+        {
+          "date": "2021-12-15",
+          "value": 14478
+        },
+        {
+          "date": "2021-12-16",
+          "value": 5915
+        },
+        {
+          "date": "2021-12-17",
+          "value": 10596
+        },
+        {
+          "date": "2021-12-18",
+          "value": 2759
+        },
+        {
+          "date": "2021-12-19",
+          "value": 42
+        }
+      ]
+    }
+  ],
+  "activityColor1": "#c6e48b",
+  "activityColor2": "#7bc96f",
+  "activityColor3": "#239a3b",
+  "activityColor4": "#196127",
+  "textColor": "#000000",
+  "emptyColor": "#ecedf0",
+  "cellRadius": 1,
+  "type": "yearly"
+}

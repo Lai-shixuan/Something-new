@@ -10,12 +10,14 @@
     "downscalePercent": 90
   },
   "foldIndent": true,
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "foldHeading": true,
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "byModifiedTime",
   "defaultViewMode": "preview",
   "strictLineBreaks": true,
   "spellcheck": false,
   "showLineNumber": false,
-  "vimMode": false
+  "vimMode": false,
+  "legacyEditor": true,
+  "livePreview": true
 }

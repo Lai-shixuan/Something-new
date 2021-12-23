@@ -50,5 +50,13 @@
       "key": "R"
     }
   ],
-  "random-note-plus-plus:random-note": []
+  "random-note-plus-plus:random-note": [],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
 }
