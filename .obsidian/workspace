@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c89f9fa06596fcec",
+        "id": "12320b5b8af70fab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_热力图.md",
+            "file": "B 机械设计/一些不去复习就会后悔的内容 -机械设计.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "滚子",
+                "query": "s!",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 297
   },
   "right": {
     "id": "d17508f0857af890",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_热力图.md",
+                "file": "B 机械设计/一些不去复习就会后悔的内容 -机械设计.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_热力图.md"
+                "file": "B 机械设计/一些不去复习就会后悔的内容 -机械设计.md"
               }
             }
           }
@@ -93,19 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248
+    "width": 317
   },
-  "active": "c89f9fa06596fcec",
+  "active": "12320b5b8af70fab",
   "lastOpenFiles": [
-    "_热力图.md",
-    "D 英语/英语单词5.md",
-    "C 政治/2 毛概/概论大题.md",
-    "C 政治/3 近现代史/近现代史大题.md",
-    "C 政治/1 马原/原理大题.md",
-    "C 政治/4 思修/思修大题.md",
-    "B 机械设计/2 挠性传动/链传动大纲.md",
-    "B 机械设计/1 总论/零件的失效形式及其原因.md",
-    "C 政治/1 马原/哲学部分/理性因素、非理性因素的作用.md",
-    "B 机械设计/4 连接/单个螺栓的强度计算.md"
+    "B 机械设计/一些不去复习就会后悔的内容 -机械设计.md",
+    "final.md",
+    "A 数学/高等数学/2 微分/极限中，f(x)比x型的做法.md",
+    "A 数学/高等数学/2 微分/有理函数拆分方法-留数.md",
+    "A 数学/高等数学/2 微分/原函数不存在定理.md",
+    "A 数学/高等数学/2 微分/如何求高阶导数.md",
+    "A 数学/高等数学/2 微分/费马定理及其证明.md",
+    "A 数学/高等数学/2 微分/一个特殊函数的性质.md",
+    "A 数学/高等数学/2 微分/奇偶性与导数.md",
+    "A 数学/高等数学/2 微分/一元函数极值.md"
   ]
 }
